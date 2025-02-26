@@ -1,7 +1,0 @@
-- Lava bubbles?
-- Shooting stars?
-- Ore shining / twinkling?
-- Campfire embers?
-- Sleeping foxes ZZZZZZZZZZZZZZZZZZs
-- Readd and overhaul glowworms
-- Better glow squid particles
